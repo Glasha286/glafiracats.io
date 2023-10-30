@@ -1,0 +1,46 @@
+/* Стили для общего оформления страницы */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #2F4F4F;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+main {
+    text-align: left;
+    margin: 40px;
+}
+
+/* Стили для заголовка и текста */
+h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: #2F4F4F;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
