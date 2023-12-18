@@ -1,8 +1,11 @@
 /* Стили для общего оформления страницы */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,600);
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
+    font-size: 14px;
 }
 
 nav {
